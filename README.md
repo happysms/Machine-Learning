@@ -39,6 +39,7 @@
 
 # 용어 정리
 > epoch : 한 번의 epoch는 인공 신경망에서 전체 데이터 셋에 대해 forward pass/ backward pass 과정을 거친 것을 말한다. 즉 , 전체 데이터 셋에 대해 한 번 학습을 완료한 상태이다. 
+
 > 역전파 알고리즘: 파라미터를 사용하여 입력부터 출력까지의 각 계층의 weight를 계산하는 과정을 거치는 forward pass, backward pass로 나뉜다. 이 전체 데이터 셋에 대해 해당 과정(forward pass + backward pass)이 완료되면 한 번의 epoch가 수행된 것이다. 
 
 
