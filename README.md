@@ -41,13 +41,16 @@
 > epoch : 한 번의 epoch는 인공 신경망에서 전체 데이터 셋에 대해 forward pass/ backward pass 과정을 거친 것을 말한다. 즉 , 전체 데이터 셋에 대해 한 번 학습을 완료한 상태이다. 
 
 > 역전파 알고리즘: 파라미터를 사용하여 입력부터 출력까지의 각 계층의 weight를 계산하는 과정을 거치는 forward pass, backward pass로 나뉜다. 이 전체 데이터 셋에 대해 해당 과정(forward pass + backward pass)이 완료되면 한 번의 epoch가 수행된 것이다. 
-
-<p align="center"><img width="231" alt="스크린샷 2021-03-19 오후 7 17 02" src="https://user-images.githubusercontent.com/70648382/116772986-a3ca8000-aa8d-11eb-94bb-771302e6b000.png">
-
+> 
 # Support vector machine
 
 ## Decision boundary
   support vector에서 커다란 부분을 차지함.
+  <img width="354" alt="스크린샷 2021-05-01 오후 3 29 59" src="https://user-images.githubusercontent.com/70648382/116773723-19384f80-aa92-11eb-9d6f-3b4d1a1fb559.png">
   
- <img width="354" alt="스크린샷 2021-05-01 오후 3 29 59" src="https://user-images.githubusercontent.com/70648382/116773723-19384f80-aa92-11eb-9d6f-3b4d1a1fb559.png">
+  w.Tx --> d(x) = w.Tx = 0
+  ex) d = 2 <img width="623" alt="스크린샷 2021-05-01 오후 3 36 38" src="https://user-images.githubusercontent.com/70648382/116773823-0b36fe80-aa93-11eb-9e1d-fd75a1927734.png">
+  
+  
+
 
