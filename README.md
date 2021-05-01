@@ -49,7 +49,5 @@
 ## Decision boundary
   support vector에서 커다란 부분을 차지함.
   
- ![image](https://user-images.githubusercontent.com/70648382/116773683-e0987600-aa91-11eb-8056-88834d261fa7.png)
-
-  
+ <img width="354" alt="스크린샷 2021-05-01 오후 3 29 59" src="https://user-images.githubusercontent.com/70648382/116773723-19384f80-aa92-11eb-9d6f-3b4d1a1fb559.png">
 
