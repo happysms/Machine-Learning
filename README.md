@@ -44,3 +44,12 @@
 
 <p align="center"><img width="231" alt="스크린샷 2021-03-19 오후 7 17 02" src="https://user-images.githubusercontent.com/70648382/116772986-a3ca8000-aa8d-11eb-94bb-771302e6b000.png">
 
+# Support vector machine
+
+## Decision boundary
+  support vector에서 커다란 부분을 차지함.
+  
+  ![image](https://user-images.githubusercontent.com/70648382/116773656-a3cc7f00-aa91-11eb-9123-34039ad6890e.png)
+
+  
+
