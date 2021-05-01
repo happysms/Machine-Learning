@@ -42,4 +42,5 @@
 
 > 역전파 알고리즘: 파라미터를 사용하여 입력부터 출력까지의 각 계층의 weight를 계산하는 과정을 거치는 forward pass, backward pass로 나뉜다. 이 전체 데이터 셋에 대해 해당 과정(forward pass + backward pass)이 완료되면 한 번의 epoch가 수행된 것이다. 
 
+<img width="231" alt="스크린샷 2021-03-19 오후 7 17 02" src="https://user-images.githubusercontent.com/70648382/116772986-a3ca8000-aa8d-11eb-94bb-771302e6b000.png">
 
